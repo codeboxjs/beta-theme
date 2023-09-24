@@ -1,0 +1,27 @@
+/*
+Theme Name: BETA
+Description: A Custom WordPress theme.
+Author: Samuel Oyekola
+Version: 1.0
+Screenshot: screenshot.png
+*/
+
+/* Add your styles here */
+
+/* Reset default margin and padding for body and wrapper elements */
+body, .wrapper {
+   margin: 0;
+   padding: 0;
+}
+
+/* Create a full-width container */
+.container-full {
+   width: 100%;
+   margin: 0 auto;
+}
+
+/* Apply full width to header and footer */
+header, footer {
+   width: 100%;
+}
+
